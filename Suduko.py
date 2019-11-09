@@ -112,12 +112,7 @@ for i in range(10):
     row()
     column()
     box()
-    for a in range(0,9):
-            for b in range(0,9):
-                if len(x[a,b])!=1:
-                    pass
-                else:
-                    i==11
+    
 print(x)
     
 
